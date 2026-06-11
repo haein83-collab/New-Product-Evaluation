@@ -1,9 +1,0 @@
-{
-  "outputDirectory": "public",
-  "rewrites": [
-    { "source": "/api/status",      "destination": "/api/status" },
-    { "source": "/api/research",    "destination": "/api/research" },
-    { "source": "/api/evaluate",    "destination": "/api/evaluate" },
-    { "source": "/api/evaluate-nc", "destination": "/api/evaluate-nc" }
-  ]
-}
